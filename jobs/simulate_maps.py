@@ -11,7 +11,7 @@ gmaps = googlemaps.Client(key='AIzaSyD0_bWNzGcOjt8CnJnCcf7WTyPAA6PzR10')
 mydb = pymysql.connect(
   host="localhost",
   user="root",
-  password="Taurus@18051998",
+  password="*******",
   database="smart_city"
 )
 
