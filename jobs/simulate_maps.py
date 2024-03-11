@@ -4,7 +4,7 @@ from polyline import decode
 import pymysql
 
 # Replace 'YOUR_API_KEY' with your actual Google Maps API key
-gmaps = googlemaps.Client(key='AIzaSyD0_bWNzGcOjt8CnJnCcf7WTyPAA6PzR10')
+gmaps = googlemaps.Client(key='*******')
 
 
 # Connect to MySQL database
